@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/web/index.xhtml</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/src/java/com/model/pojo/User.java</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/web/UserCRUD.xhtml</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/src/java/com/controller/bean/UserBean.java</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/src/java/com/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/web/Search.xhtml</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/src/java/com/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Sebastian/Documents/NetBeansProjects/hola/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
